@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  position: relative;
+}
+
+h1 {
+  margin: 0;
+}
+
+.fixed {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky {
+  position: sticky;
+  background-color: green;
+}
+
+.fixed-header {
+  background-color: gray;
+}
